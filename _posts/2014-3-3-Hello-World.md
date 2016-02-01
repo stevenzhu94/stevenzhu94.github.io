@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Getting Started
 ---
 
 <h2>Getting Started</h2>
