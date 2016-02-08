@@ -11,6 +11,7 @@ With the career fair this past Tuesday and the project being due Thursday, I had
 
 
 <h2>What will you do next week?</h2>
+I plan to get a head start on the next project. I want to at least get a basic grasp on the scope of the assignment. It feels like I have finally start to hit a rhythm with everything I am doing and I am not planning to miss a beat. 
 
 
 <h2>Tip of the Week</h2>
