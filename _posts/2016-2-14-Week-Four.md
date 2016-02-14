@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Things Rolling
+title: Netlix and Chill
 ---
 
 <h2>What did you do this past week?</h2>
