@@ -11,8 +11,8 @@ Learning how to use Python pickle files proved to be more of a challenge then I 
 
 
 <h2>What will you do next week?</h2>
-I plan to get a head start on the next project. I want to at least get a basic grasp on the scope of the assignment. It feels like I have finally start to hit a rhythm with everything I am doing and I am not planning to miss a beat. 
+Netflix is due Thursday so I will definitely be focusing my attention on that. We have most of it done. Our root mean square error is below 1 right now, but we are shoot for the 5 extra points and going for a sub 0.95. If us two geniuses somehow manage to get our RMSE below 0.85, don't worry, we'll let Netflix know. 
 
 
 <h2>Tip of the Week</h2>
-There is a game called Stockfighter that many of you reading may be interested in. It is a free capture the flag programming challenge game that lets you participate and manipulate in a virtual trading market. Hone your skills while playing a game, what could be better? It has more to do with software security than actual development, but security is definitely something that you should keep in mind while developing software, so it is totally related. Anyways, for those of you who want to try it out, here's a link: [stockfighter.com](https://www.stockfighter.io/).
+I learned a lot about [pair programming](http://guide.agilealliance.org/guide/pairing.html) working with Wes this week. For those of you skeptics out there, I encourage you to give it a try. I have found that I am a lot more focused, productive, and effective while working in tandem with a partner. Having someone hold me accountable and coding out loud really makes a difference on the quality of code you can produce.
