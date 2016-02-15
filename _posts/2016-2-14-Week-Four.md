@@ -11,7 +11,7 @@ Learning how to use Python pickle files proved to be more of a challenge then I 
 
 
 <h2>What will you do next week?</h2>
-Netflix is due Thursday so I will definitely be focusing my attention on that. We have most of it done. Our root mean square error is below 1 right now, but we are shoot for the 5 extra points and going for a sub 0.95. If us two geniuses somehow manage to get our RMSE below 0.85, don't worry, we'll let Netflix know. 
+Netflix is due Thursday so I will definitely be focusing my attention on that. We have most of it done. Our root mean square error is below 1 right now, but we are shooting for the 5 extra points by going for a sub 0.95. If us two geniuses somehow manage to get our RMSE below 0.85, don't worry, we'll let Netflix know. 
 
 
 <h2>Tip of the Week</h2>
