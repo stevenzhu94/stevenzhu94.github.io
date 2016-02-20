@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Netlix and Chill
+title: Netlix and Conclude
 ---
 
 <h2>What did you do this past week?</h2>
-Week Five Info
+[Wes](http://wesdraper.github.io) and I concluded Netflix this past week. We weren't able to get our root mean square error below 0.95 but we learned a lot during this project.
 
 <h2>What's in your way?</h2>
 Week Five Obstacles
