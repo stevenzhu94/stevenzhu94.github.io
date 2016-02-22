@@ -5,6 +5,7 @@ title: Netlix and Conclude
 
 <h2>What did you do this past week?</h2>
 [Wes](http://wesdraper.github.io) and I concluded Netflix this past week. We weren't able to get our root mean square error below 0.95 but we learned a lot during this project. I am pretty comfortable dealing with pickle files now.
+
 In class we talked more about iterators and generators. [Downing](https://www.cs.utexas.edu/users/downing/) also touched on how they are implemented differently from Python 2.7 to 3. I've always assumed language developers would move heaven and earth to keep the implementations of the language as similar as possible from one version to the next, so that the new version doesn't break any legacy programs written in the older versions. That issue didn't seem to bother the Python developers that much. I guess the trade-off was probably worth it to them.
 
 <h2>What's in your way?</h2>
