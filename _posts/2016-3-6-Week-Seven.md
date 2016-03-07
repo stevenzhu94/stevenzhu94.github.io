@@ -8,7 +8,7 @@ We took the midterm for SWE this past Thursday. I won't lie, it was pretty chall
 
 
 <h2>What's in your way?</h2>
-It's the middle of the semester so nearly all of my classes are going full blast with projects, exams, homeworks, and quizzes. It is a lot of work and a lot of stress. Trying to find some personal time is near impossible, so I guess I feel a little burned out. Any extra time I get is a near impossible choice between much needed rest or much needed studying. I need to get better at time management.
+It's the middle of the semester so nearly all of my classes are going full blast with projects, exams, homeworks, and quizzes. It is a lot of work and a lot of stress. Trying to find some personal time is near impossible, so I guess I feel a little burned out. Any extra time I get is a near impossible choice between some much needed rest or some much needed studying. I need to get better at time management.
 
 There is definitely a sense of directionlessness when there seems to be endless an amount of work to do. However, having no work to do feels almost as uncomfortable. I guess, as with everything in life, moderation is key.
 
