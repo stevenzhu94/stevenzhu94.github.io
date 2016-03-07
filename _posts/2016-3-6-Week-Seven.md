@@ -14,7 +14,7 @@ There is definitely a sense of directionlessness when there seems to be endless 
 
 
 <h2>What will you do next week?</h2>
-Spring break is coming up; so are many exams. I will be using all my effort to finish strong before the upcoming break. That means a lot of reading, studying, and finishing any lagging projects. I will be using the break as a chance to apply for some more internships. Needless to say, I don't plan on making any crazy spring break stories.
+Spring break is coming up; so are many exams. I will be using all my effort to finish strong before the upcoming break. That means a lot of reading, studying, and finishing any lagging projects. I will be using the break as a chance to apply for some more internships. Needless to say, I don't plan on making any crazy spring break memories this year.
 
 
 <h2>Tip of the Week</h2>
