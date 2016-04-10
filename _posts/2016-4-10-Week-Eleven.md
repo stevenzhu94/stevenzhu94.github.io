@@ -17,5 +17,4 @@ Due to everyone's unfamiliarity with Docker, there were times when we would sit 
 After the late submission with IDB1 and the close call with IDB2, I will definitely be working on the third iteration with more focus this week.
 
 <h2>Tip of the Week</h2>
-[here](http://zulko.github.io/).
-
+My tip of the week for you is to avoid scope creep. It's natural to want to add features onto your projects while you are working on them. It's easy to get overly enthusiastic while working on a project and suddenly decide you need features that you didn't originally plan for. It's better to finish what you originally set out to do, then if you have time after you've reached your original goals, proceed to add extra feature you've thought of along the way. It'll save you a lot headache and uninticipated crunch times in the future.
