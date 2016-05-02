@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beginning of the End
+title: The End
 ---
 
 <h2>What did you do this past week?</h2>
